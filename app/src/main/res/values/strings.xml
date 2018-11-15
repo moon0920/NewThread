@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewThread</string>
+    <string name="btnRun">RUN</string>
+</resources>
